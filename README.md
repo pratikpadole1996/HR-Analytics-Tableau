@@ -1,4 +1,4 @@
-# HR-Analytics-Tableau
+# HR_Analytics_Tableau
 
 About the Project:
 Every company has a HR Department which deal with various recruitment and placement related work of the company. Here in this project there is huge dataset from which insights are drawn which can beuseful for HR department to work on and to gain knowledge about the recruitment process of the market.
